@@ -19,5 +19,6 @@
 ### Git Workflow
 TODO
 
-Note: if your code doesn't conform to [https://pypi.org/project/black/](black's) code guidelines, then each time you try to commit, it will fail. The code will then be automatically reformatted for you. Afterwards, stage your changes, commit them, and then push. If you want to prevent this from happening, format your code beforehand with `black ..` 
+Note: if your code doesn't conform to [https://pypi.org/project/black/](black's) code guidelines, then each time you try to commit, it will fail. The code will then be automatically reformatted for you. Afterwards, stage your changes, commit them, and then push. If you want to prevent this from happening, format your code (assuming your are in the project's root directory) beforehand with `black ..` 
+
 TODO: Verify all this works
