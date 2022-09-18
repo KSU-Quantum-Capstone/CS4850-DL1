@@ -1,7 +1,7 @@
 ## Getting Started
 ### Prerequisites Installation
 1. Install anaconda from: https://www.anaconda.com/
-2. Once installed, in your terminal on Mac or Anaconda Prompt on Windows, run the command `conda list` to test your installation. If it's installed correctly, a list of installed packages will appear. If you run into trouble visit: https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html#regular-installation
+2. Once installed, in your Anaconda Prompt on Windows or terminal on Mac, run the command `conda list` to test your installation. If it's installed correctly, a list of installed packages will appear. If you run into trouble visit: https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html#regular-installation
 3. Run the command `conda create --name quantum python=3.10` to create a new conda environment call "quantum" with a Python 3.10 installation.
 4. Activate the environment with `conda activate quantum`.
 5. Install JupyterLab, the JupyterLab git extension, pre-commit, and black with `conda install -c conda-forge jupyterlab jupyterlab-git pre-commit black`.
