@@ -1,3 +1,6 @@
+# CS4850-DL1
+Quantum Computing Research Capstone project for CS4850
+
 ## Getting Started
 ### Prerequisites Installation
 1. Install anaconda from: https://www.anaconda.com/
@@ -14,11 +17,9 @@
 2. Clone the repository with `git clone https://github.com/KSU-Quantum-Capstone/CS4850-DL1.git`.
 3. Navigate into the git repository on your local computer with the `cd` command. 
 4. Once you are in `.../CS4850-DL1/`, use the command `pre-commit install`. This will set up the pre-commit hooks (which are used for formatting code).
-5. Lastly, run the command `pre-commit run --all-files` which will run the hooks on all of the files. If it says FAILED, see note in the Git Workflow section below. If you get the error `ImportError: DLL load failed while importing _ctypes`, try removing your conda environment and restarting from getting started step 3. 
+5. Lastly, run the command `pre-commit run --all-files` which will run the hooks on all of the files. If it says FAILED, see the note in the Git Workflow section below. If you get the error `ImportError: DLL load failed while importing _ctypes`, try removing your conda environment and restarting from getting started step 3. 
 
 ### Git Workflow
 TODO
 
 Note: if your code doesn't conform to [https://pypi.org/project/black/](black's) code guidelines, then each time you try to commit, it will fail. The code will then be automatically reformatted for you. Afterwards, stage your changes, commit them, and then push. If you want to prevent this from happening, format your code (assuming you are in the project's root directory) beforehand with `black ..` 
-
-TODO: Verify all this works
