@@ -6,7 +6,7 @@
 4. Activate the environment with `conda activate quantum`.
 5. Install JupyterLab, the JupyterLab git extension, pre-commit, and black with `conda install -c conda-forge jupyterlab jupyterlab-git pre-commit black`.
 6. Install Qiskit with `pip install qiskit` for quantum computing development.
-7. Install visualization support for Qiskit with `pip install qiskit-terra[visualization]`. If this doesn't work it may be because use are using zsh, which is the default on newer MacOS systems. Use this command instead `pip install 'qiskit[visualization]'`. Note the extra quotes.
+7. Install visualization support for Qiskit with `pip install qiskit[visualization]`. If this doesn't work it may be because use are using zsh, which is the default on newer MacOS systems. Use this command instead `pip install 'qiskit[visualization]'`. Note the extra quotes.
 8. To deactivate your current conda environment use the command `conda deactivate`.
 
 ### Setting Up Pre-Commit Hooks
@@ -14,7 +14,7 @@
 2. Clone the repository with `git clone https://github.com/KSU-Quantum-Capstone/CS4850-DL1.git`.
 3. Navigate into the git repository on your local computer with the `cd` command. 
 4. Once you are in `.../CS4850-DL1/`, use the command `pre-commit install`. This will set up the pre-commit hooks (which are used for formatting code).
-5. Lastly, run the command `pre-commit run --all-files` which will run the hooks on all of the files.
+5. Lastly, run the command `pre-commit run --all-files` which will run the hooks on all of the files. If it says FAILED, see note in the Git Workflow section below. If you get the error `ImportError: DLL load failed while importing _ctypes`, try removing your conda environment and restarting from getting started step 3. 
 
 ### Git Workflow
 TODO
