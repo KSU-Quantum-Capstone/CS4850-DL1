@@ -1,4 +1,4 @@
 # Ignore checkpoint files stored on local instance
-.ipynb_checkpoints
+*-checkpoint.ipynb
 # ID file that will only be stored locally since it has IBM account tokens stored on it
-#ibmqID.ipynb  NOTE: uncomment this out after first pull to all branches from main
+ibmqID.ipynb
