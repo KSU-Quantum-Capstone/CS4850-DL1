@@ -6,7 +6,7 @@ url: "https://ksu-quantum-capstone.github.io/" # the base hostname & protocol fo
 github_username: ethanbtlr
 
 # Build settings
-theme: "just-the-docs"
+remote_theme: "just-the-docs/just-the-docs"
 plugins:
   - jekyll-feed
 # Exclude from processing.
