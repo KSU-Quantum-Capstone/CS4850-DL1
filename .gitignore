@@ -1,4 +1,4 @@
 # Ignore checkpoint files stored on local instance
 *-checkpoint.ipynb
 # ID file that will only be stored locally since it has IBM account tokens stored on it
-ibmqID.ipynb
+ibmqID.py
