@@ -1,7 +1,0 @@
-{
-    "python.defaultInterpreterPath": "~/Applications/anaconda3/bin/python", 
-    "python.linting.pylintPath": "~/Applications/anaconda3/bin/pylint",
-    
-    "python.linting.pylintEnabled": true,
-    "python.linting.enabled":true,
-}
