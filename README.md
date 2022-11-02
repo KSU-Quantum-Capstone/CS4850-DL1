@@ -9,8 +9,9 @@ Quantum Computing Research Capstone project for CS4850
 4. Activate the environment with `conda activate quantum`.
 5. Install JupyterLab, the JupyterLab git extension, pre-commit, and black with `conda install -c conda-forge jupyterlab jupyterlab-git pre-commit black`.
 6. Install Qiskit with `pip install qiskit` for quantum computing development.
-7. Install visualization support for Qiskit with `pip install qiskit[visualization]`. If this doesn't work it may be because use are using zsh, which is the default on newer MacOS systems. Use this command instead `pip install 'qiskit[visualization]'`. Note the extra quotes.
-8. To deactivate your current conda environment use the command `conda deactivate`.
+7. Install visualization support for Qiskit with `pip install qiskit[visualization]`. 
+NOTE: If this doesn't work it may be because you are using zsh, which is the default on newer MacOS systems. Use this command instead `pip install 'qiskit[visualization]'`. Note the extra quotes.
+9. To deactivate your current conda environment use the command `conda deactivate`.
 
 ### Setting Up Pre-Commit Hooks
 1. Open your terminal/command prompt and activate your conda environment with `conda activate quantum`.
