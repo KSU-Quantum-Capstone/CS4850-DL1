@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-nav_order: 3
+nav_order: 2
 ---
 
 # About CS4850-DL1
