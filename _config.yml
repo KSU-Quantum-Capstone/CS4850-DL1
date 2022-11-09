@@ -1,9 +1,20 @@
 title: CS4850-DL1
 description: >- # this means to ignore newlines until "baseurl:"
-  Quantum Computing Research Capstone project for CS4850
-baseurl: "/CS4850-DL1/" # the subpath of your site, e.g. /blog
+  A quantum computing research capstone project for CS4850. An ALU is implemented and demonstrated.
+baseurl: "/CS4850-DL1" # the subpath of your site, e.g. /blog
 url: "https://ksu-quantum-capstone.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: ethanbtlr
+
+aux_links:
+  "CS4850-DL1 on GitHub":
+    - "//github.com/KSU-Quantum-Capstone/CS4850-DL1"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
+
+nav_external_links:
+  - title: CS4850-DL1 on GitHub
+    url: https://github.com/KSU-Quantum-Capstone/CS4850-DL1
 
 # Build settings
 remote_theme: just-the-docs/just-the-docs
