@@ -19,4 +19,8 @@ To contribute to the project website, you will need to follow the steps outlined
 7. Switch to the gh-pages branch `git checkout gh-pages`
 8. Install the bundle's prerequisites `bundle install`
 9. Start the jekyll server `bundle exec jekyll serve`
-10. End the server with `ctrl+c`
+10. Make any necessary changes in the various markdown files. Everytime you save a file, the local jekyll server will reload your changes unless you are editing the \_config.yml file.
+11. Stage your changes to the local git repo with the command `git add .`
+12. Commit your changes by using the command `git commit -m "Enter summary of the changes you made here"`
+13. Push your changes to the remote GitHub repo. `git push origin`
+14. End the server with `ctrl+c`
