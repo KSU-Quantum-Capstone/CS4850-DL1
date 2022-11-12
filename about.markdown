@@ -11,6 +11,4 @@ A quantum computing research capstone project for CS4850.
 
 ## Project
 
-dsaijhdijshadijh
-
 ## Team

@@ -24,3 +24,4 @@ To contribute to the project website, you will need to follow the steps outlined
 12. Commit your changes by using the command `git commit -m "Enter summary of the changes you made here"`
 13. Push your changes to the remote GitHub repo. `git push origin`
 14. End the server with `ctrl+c`
+15. Close your conda environment with `conda deactivate`
