@@ -2,7 +2,7 @@
 layout: page
 title: Quantum Resources
 permalink: /resources/
-nav_order: 5
+nav_order: 6
 ---
 
 # Online Quantum Computing Resources
