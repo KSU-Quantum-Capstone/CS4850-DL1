@@ -5,7 +5,7 @@ nav_order: 1
 
 # Home
 
-A quantum computing undergraduate research project for CS4850. It showcases an implementation of a quantum Arithmetic Logic Unit (ALU).
+A quantum computing undergraduate research project for CS4850. It showcases an implementation of a quantum ALU (Arithmetic-Logic Unit).
 
 ## Team
 
