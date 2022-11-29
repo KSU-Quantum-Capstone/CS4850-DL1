@@ -5,22 +5,22 @@ nav_order: 1
 
 # Home
 
-A quantum computing research capstone project for CS4850. It showcases an implementation of a quantum Arithmetic Logic Unit (ALU).
+A quantum computing research capstone project for CS4850. It showcases an implementation of a quantum Arithmetic-Logic Unit (ALU).
 
 ## Team
 
 ### David Carroll
 
-**Roles:**
+**Roles:** Team Leader, Quantum Computing Researcher and Developer
 
 ### Bryson Phillip
 
-**Roles:**
+**Roles:** Lead Quantum Computing Researcher and Developer
 
 ### Ben Ulrich
 
-**Roles:**
+**Roles:** Lead Version Control Manager, Quantum Computing Researcher and Developer
 
 ### Ethan Butler
 
-**Roles:**
+**Roles:** Project Manager, Version Control Manager, Quantum Computing Researcher and Developer
