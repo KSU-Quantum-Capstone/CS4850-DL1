@@ -15,7 +15,7 @@ To contribute to the project website, you will need to follow the steps outlined
 3. Install the necessary anaconda packages `conda install -c conda-forge c-compiler compilers cxx-compiler ruby`
 4. Install jekyll and bundler `gem install jekyll bundler`
 5. Clone the repository with `git clone https://github.com/KSU-Quantum-Capstone/CS4850-DL1.git`.
-6. Navigate into the git repository on your local computer with the `cd` command. 4. Once you are in `.../CS4850-DL1/`,
+6. Navigate into the git repository on your local computer with the `cd` command. Once you are in `.../CS4850-DL1/`,
 7. Switch to the gh-pages branch `git checkout gh-pages`
 8. Install the bundle's prerequisites `bundle install`
 9. Start the jekyll server `bundle exec jekyll serve`
