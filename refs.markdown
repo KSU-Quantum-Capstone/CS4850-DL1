@@ -7,9 +7,7 @@ nav_order: 4
 
 # References
 
-[1] IBM [n. d.]. IBM Quantum Composer. IBM. [https://quantum-computing.ibm.com>
-composer/](https://quantum-computing.ibm.com>
-composer/)<br>
+[1] IBM [n. d.]. IBM Quantum Composer. IBM. [https://quantum-computing.ibm.com/composer/](https://quantum-computing.ibm.com/composer/)<br>
 [2] IBM 2022. Qiskit 0.39.3 documentation. IBM. [https://qiskit.org/documentation/](https://qiskit.org/documentation/)<br>
 [3] IBM 2022. Qiskit Terra. IBM. [https://github.com/Qiskit/qiskit-terra](https://github.com/Qiskit/qiskit-terra)<br>
 [4] Daniel Azses, Maxime Dupont, Bram Evert, Matthew J. Reagor, and Emanuele
