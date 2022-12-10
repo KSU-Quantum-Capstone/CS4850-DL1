@@ -18,3 +18,5 @@ nav_order: 6
 [https://doi.org/10.5281/zenodo.2573505](https://doi.org/10.5281/zenodo.2573505)<br>
 [9] John Wright. 2015. Lecture 18: Quantum Information Theory and Holevo’s Bound.
 [https://www.cs.cmu.edu/~odonnell/quantum15/lecture18.pdf](https://www.cs.cmu.edu/~odonnell/quantum15/lecture18.pdf). Accessed: 2022-11- 30.
+[10] Jupyterlab. “A Git Extension for JupyterLab.” _GitHub_, https://github.com/jupyterlab/jupyterlab-git.
+[11] Psf. “The Uncompromising Python Code Formatter.” _GitHub_, https://github.com/psf/black.
