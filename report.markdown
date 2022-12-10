@@ -11,7 +11,7 @@ For our class, we were tasked to create a report which details our development p
 
 {% for report in site.static_files %}
 
-{% if report.path contains "A_Quantum_Computing_ALU.pdf" %}
+{% if report.path contains "DL1-M2-FinalReport.pdf" %}
 
 <object data="{{site.url}}{{site.baseurl}}{{report.path}}" width="850" height="1100" type='application/pdf'/>
 </object>
