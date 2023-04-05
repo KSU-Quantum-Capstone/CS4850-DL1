@@ -1,12 +1,14 @@
 ---
 layout: page
-title: Getting Started with the Website
+title: Contributing to the Project Website
 permalink: /docs/getting-started-Website/
 parent: Docs
 nav_order: 3
 ---
 
 # Getting Started with the Website
+
+Note: these steps are for MacOS/Linux/Unix but you will most likely run into problems installing Jekyll on Windows. See more information here: [Jekyll on Windows](https://jekyllrb.com/docs/installation/windows/)
 
 To contribute to the project website, you will need to follow the steps outlined below.
 
