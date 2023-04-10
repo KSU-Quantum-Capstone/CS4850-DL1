@@ -7,9 +7,9 @@ nav_order: 2
 
 # A Quantum Computing ALU
 
-Here you can see our manuscript:
-Feel free to take a look at it on ACM: [https://doi.org/10.1145/3564746.3587005](DOI)
+Feel free to take at our paper on ACM: [https://doi.org/10.1145/3564746.3587005](DOI)
 
+Or view it here:
 {% for report in site.static_files %}
 
 {% if report.path contains "A_Quantum_Computing_ALU.pdf" %}
