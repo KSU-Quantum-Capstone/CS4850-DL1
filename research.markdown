@@ -7,7 +7,8 @@ nav_order: 2
 
 # A Quantum Computing ALU
 
-Here you can see our manuscript that we plan to submit to ACM. As the submission date has been extended to January, some minor changes may be made before then. This page will be updated as necessary to showcase the most current version.
+Here you can see our manuscript:
+Feel free to take a look at it on ACM: [https://doi.org/10.1145/3564746.3587005](DOI)
 
 {% for report in site.static_files %}
 
