@@ -6,7 +6,7 @@ nav_order: 2
 ---
 
 # A Quantum Computing ALU
-Our paper cam be viewed at: [https://doi.org/10.1145/3564746.3587005](https://doi.org/10.1145/3564746.3587005)
+Our paper can be viewed at: [https://doi.org/10.1145/3564746.3587005](https://doi.org/10.1145/3564746.3587005)
 
 or here on this page:
 
