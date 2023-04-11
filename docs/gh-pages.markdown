@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Contributing to the Project Website
-permalink: /docs/getting-started-Website/
+permalink: /docs/contributing-website/
 parent: Docs
-nav_order: 3
+nav_order: 4
 ---
 
 # Getting Started with the Website

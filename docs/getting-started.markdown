@@ -8,6 +8,8 @@ nav_order: 1
 
 # Getting Started
 
+Note: these instructions have been tested on Windows and MacOS but not on Linux. They should work however, some modifications may be necessary.
+
 ## Prerequisites Installation
 
 1. Install anaconda from: https://www.anaconda.com/
@@ -18,3 +20,5 @@ nav_order: 1
 6. Install Qiskit with `pip install qiskit` for quantum computing development.
 7. Install visualization support for Qiskit with `pip install qiskit[visualization]`. If this doesn't work it may be because use are using zsh, which is the default on newer MacOS systems. Use this command instead `pip install 'qiskit[visualization]'`. Note the extra quotes.
 8. To deactivate your current conda environment use the command `conda deactivate`.
+
+You are now ready to run the circuit. See the [instructions here for next steps](circuit).

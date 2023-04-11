@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Git
-permalink: /docs/git/
+title: Contributing Code
+permalink: /docs/contributing-code/
 parent: Docs
-nav_order: 2
+nav_order: 3
 ---
 
-# Using Git for CS4850-DL1
+# Contributing to the Code Repository
 
 ### Setting Up Pre-Commit Hooks
 
