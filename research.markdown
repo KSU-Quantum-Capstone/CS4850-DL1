@@ -6,8 +6,10 @@ nav_order: 2
 ---
 
 # A Quantum Computing ALU
+Our paper cam be viewed at: [https://doi.org/10.1145/3564746.3587005](https://doi.org/10.1145/3564746.3587005)
 
-Here is our paper:
+or here on this page:
+
 {% for report in site.static_files %}
 
 {% if report.path contains "A_Quantum_Computing_ALU.pdf" %}
@@ -19,4 +21,3 @@ Here is our paper:
 
 {% endfor %}
 
-It can also be viewed at: [https://doi.org/10.1145/3564746.3587005](https://doi.org/10.1145/3564746.3587005)
