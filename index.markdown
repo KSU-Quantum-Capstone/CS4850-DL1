@@ -30,3 +30,7 @@ A quantum computing undergraduate research project for CS4850. It showcases an i
 
 **Roles:** Project Manager, Version Control Manager, Quantum Computing Researcher and Developer<br>
 **Email:** [ethan@ethanbtlr.com](mailto:ethan@ethanbtlr.com)
+
+### Dr. Dan Lo
+**Roles:** Research Advisor
+**Email:** [dlo2@kennesaw.edu](mailto:dlo2@kennesaw.edu)
