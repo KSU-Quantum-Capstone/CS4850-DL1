@@ -32,5 +32,6 @@ A quantum computing undergraduate research project for CS4850. It showcases an i
 **Email:** [ethan@ethanbtlr.com](mailto:ethan@ethanbtlr.com)
 
 ### Dr. Dan Lo
-**Roles:** Research Advisor
+
+**Roles:** Research Advisor<br>
 **Email:** [dlo2@kennesaw.edu](mailto:dlo2@kennesaw.edu)
